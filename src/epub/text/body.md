@@ -610,7 +610,7 @@ Then he would say, “What do I owe you, Cy?”
 
 “Owe me? Owe me for what?”
 
-“Why, you know, Cy, for fixing up that little 
+“Why, you know, Cy, for fixing up that little
 trouble.”
 
 “Oh, that’s what you mean. Say, you don’t owe
@@ -805,7 +805,7 @@ time, John?”
 
 “Forty-two, sir.”
 
-“Correct, John.” 
+“Correct, John.”
 
 He did not seem to be much interested in my correct
 and prompt answers; kept on looking at his paper.
@@ -1092,7 +1092,7 @@ why I’m here.”
 The customers looked at me. I stood my ground.
 
 “Hell,” said the man, “I didn’t think he was that
-bad. Here, take the lousy money.” 
+bad. Here, take the lousy money.”
 
 I hurried back to the milkman. “Here’s Mr.
 Finucane’s two dollars.”
@@ -1140,7 +1140,7 @@ the front door.
 
 “I’m going out, if you please.”
 
-“Get back in there, if you please,” he snarled, “and 
+“Get back in there, if you please,” he snarled, “and
 stay there.”
 
 While the officers were waiting for the wagon one
@@ -2299,7 +2299,7 @@ She’s young and healthy and good for years. Listen,
 you put her right out on the street. Make her walk
 the blocks. She’s workin’ for you then, an’ not the
 landladies and landlords. Keep her away from the
-other women. They’ll wise her up an’ you'll lose her,
+other women. They’ll wise her up an’ you’ll lose her,
 or put her against hop an’ you’ll have a bum on your
 hands. That’s all, now. Are you goin’ to start her
 in to-night? The sooner the better.”
@@ -2347,7 +2347,7 @@ I was saving my money, hoping some day to get my
 gray suit, hat, and trunk. I told Julia of my ambition
 to have the suit and leather trunk.
 
-“I’ll buy them for you, kid, as soon as I get a few 
+“I’ll buy them for you, kid, as soon as I get a few
 things myself.”
 
 “Never mind that, Julia, I’ll pay for them,” I said,
@@ -2753,7 +2753,7 @@ when I make the poultice route.”
 
 “That’s southern Utah, kid, the land of milk and
 honey. You’re always sure of a big pan of milk and
-a fresh loaf of home bread—the poultice route, see? 
+a fresh loaf of home bread—the poultice route, see?
 So long.”
 
 A long, heavy westbound freight train was slowly
@@ -2876,7 +2876,7 @@ He gave me a sharp look.
 
 “Goin’ down in the yards, young feller?”
 
-“Yes, why?” 
+“Yes, why?”
 
 “Better wait till night if you want to make a train.
 The railroad bull is hostile. They found a bum dead
@@ -3447,7 +3447,7 @@ silver and gold; more than we could carry away if we
 got it. At last we decided to go over the wall and give
 the place a good reconnaissance. If it looked feasible
 we could get a couple of other idle burglars and give
-it a thorough looting. 
+it a thorough looting.
 
 On top of the wall we pulled up our light ladder
 and placed it inside. Smiler went down first. I barely
@@ -4060,7 +4060,7 @@ gambling house with a six-hundred-dollar bankroll.”
 
 Shorty was one of the patricians of the prison, a
 “box man” doing time for bank burglary. “I’ll put
-you in with the right people, kid. You're folks
+you in with the right people, kid. You’re folks
 yourself or you wouldn’t have been with Smiler.”
 
 I had no friends in the place. But the fact that I
@@ -4755,7 +4755,7 @@ the road and the “company” had sent out orders to
 arrest them on sight and give them ten days.
 
 “It’s a wonder somebody along the road didn’t tell
-you about it,” he said. “You're the first one I’ve seen
+you about it,” he said. “You’re the first one I’ve seen
 for a month. The bums are all going over the Union
 Pacific now instead of the Rio Grande. It’s too bad,
 you’ll get ten days sure in the morning. Company’s
