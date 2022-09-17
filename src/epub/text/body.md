@@ -84,7 +84,7 @@ a friend say: “John, I want you to meet my mother.”
 To me it means more than I can put on paper. It
 seems to explain to me why the man who so proudly
 says, “This is my mother,” is so many things that I am
-not and never can be. ‘The insurance people have not
+not and never can be. The insurance people have not
 yet got to the stage of insuring a man against a
 lifetime of failure, but if they ever do, I imagine the chap
 who can guarantee them that he will keep his mother
@@ -1389,7 +1389,6 @@ I was pop-eyed with amazement at this swift,
 smashing reversal of the situation. The two drunks beside
 me were but mildly interested. Nobody, from the
 captain down to Julia, the accused, seemed surprised.
-
 I could not understand why the whole crowd did not
 fall on the hog man and tear him to pieces. The
 captain disappeared into his office. The detective walked
@@ -1677,7 +1676,6 @@ Collection day came around again, and I made my
 rounds without incident till I got to Madam
 Singleton’s, the last place. A colored maid, the only person
 that escaped arrest the week before, opened the door.
-
 When she saw me she screamed at the top of her
 voice:
 
@@ -2014,7 +2012,6 @@ it. You’re only a kid, like I was a couple of years
 ago.”
 
 “Tell me, anyway, Julia.”
-
 
 Her story, new to me then, was as old as man’s
 duplicity and woman’s inherent desire to be loved
@@ -2998,7 +2995,7 @@ danced, or stood at the door waiting to be released.
 I can return that feed,” he said, when the trusty came
 to release him.
 
-I liked “The Smiler’” and wished I could be with
+I liked “The Smiler” and wished I could be with
 him. In the morning coffee and stale bread were served
 in the cells. Fifteen minutes later there was a banging
 of doors. Some one shouted “Chain gang.” My
@@ -3615,7 +3612,7 @@ He was there in front of the window in the
 moonlight, on his hands and knees now, shaking his head
 from side to side slowly.
 
-There was no alarm yet. The night was caim and
+There was no alarm yet. The night was calm and
 still again. There was the smell of burnt powder in
 the air.
 
@@ -4500,7 +4497,6 @@ imagine how it got into the bread, and out of curiosity
 and having nothing else to do, I broke it apart. There
 was a tightly rolled piece of paper inside, on which
 was written: “Stick. We’ll feed you to-night.”
-
 There was no name, no explanation. I knew it was
 from my cellmates, and put in the balance of the day
 trying to figure how they would manage to get food
@@ -6061,7 +6057,7 @@ politicians. He finds lost children and dogs, and returns them
 to their owners. Shopgirls and strangers ask him which
 is the best show of the week. Men around town
 consult him about the chances of a horse in to-morrow’s
-race. He can borrow more money on his I. O. U.
+race. He can borrow more money on his I.O.U.
 than many business men in his block and pays on the
 minute. He is no stranger at the banks on the
 opposite corners. His reputation for truth and veracity
@@ -6141,7 +6137,6 @@ got. Let’s bang it up before they come in and take
 it away from us. See if you can hustle some matches.”
 
 The match seeker glanced sharply around him.
-
 When his eye fell on me I produced some matches.
 “Got any smokes?” I handed him a pack of
 cigarettes. He took two, gave one to his partner, Georgie,
@@ -8875,7 +8870,6 @@ in the sleeper on the departing passenger train. We
 were barely settled inside when there was a bumping
 and jolting of cars and our train slowly got under
 way. We were in a car loaded with barrels of lime.
-
 They stood on end and it was painful to stretch out
 on them. The ride was a nightmare. Hungry,
 thirsty, cold, racked with fear and suspense, we got
@@ -12728,7 +12722,7 @@ promised. He called for it at the express office the
 next day, but it hadn’t arrived. Not caring to make
 too much fuss over a package valued at twenty-five
 dollars, we waited a few days before he went back for
-it. The express ofice was in Montgomery Street then,
+it. The express office was in Montgomery Street then,
 and I stood in the Palace Hotel entrance where I could
 look across the street and see him showing the receipt
 and arguing with the clerks. His willingness to go to
@@ -13015,7 +13009,7 @@ hands on her and strangle her. Mrs. Spokane had
 collapsed on the bench, almost fainting from fear and
 wondering what it was about. Annie was led away
 screaming threats. Spokane’s wife went home, and we
-back to our cell where we tried to bie together this
+back to our cell where we tried to piece together this
 unexpected angle.
 
 I saw the police were playing my game better than
