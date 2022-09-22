@@ -6,4 +6,10 @@
 			<reason>When the "D.D." initialism becomes a verb (e.g. "D.D.ing"), the "ing" letters immediately follow the abbreviation tags without any spaces.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-9.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Dialog from one of the characters (Foot-and-a-half George) spans multiple lines. The section in question begins here: `“You’re damn right, I did.`</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
