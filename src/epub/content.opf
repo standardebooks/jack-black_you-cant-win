@@ -28,49 +28,48 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">You Can’t Win</dc:title>
 		<meta property="file-as" refines="#title">You Can’t Win</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Thieves</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
-		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-1">sh85134855</meta>
+		<meta property="se:subject">Autobiography</meta>
+		<dc:description id="description">Jack Black’s autobiographical account of life “on the road” as a professional thief and hobo during the late 19th century and early 20th century.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Beginning within the hallowed halls of a convent school as a young boy, &lt;a href="https://standardebooks.org/ebooks/jack-black"&gt;Jack Black&lt;/a&gt; recounts his gradual journey towards a life of crime and his adventures within the lawless underworld as a professional thief and member of the notorious “yegg” safecracking brotherhood.&lt;/p&gt;
+			&lt;p&gt;After its initial publication as a popular series of articles in the &lt;i&gt;San Francisco Call&lt;/i&gt; newspaper, &lt;i&gt;You Can’t Win&lt;/i&gt; was reissued as a standalone book in 1926 and quickly became a best-seller that helped inspire the work of Beat Generation writers like William &lt;abbr&gt;S.&lt;/abbr&gt; Burroughs. Black’s gritty portrayal and inside account of the criminal justice system continued to play an influential role in prison reform efforts long after its publication.&lt;/p&gt;
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:language>en-US</dc:language>
+		<dc:source>https://archive.org/details/youcantwin0000jack</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/006633773</dc:source>
+		<meta property="se:production-notes">The MacMillan edition from 1926 is the canonical source for both sets of page scans. These scans were compared against each other to help ensure accuracy in cases where a mark was unclear or when one of the pages had small blemishes.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/You_Can%27t_Win</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/You_Can%27t_Win_(book)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jack-black_you-cant-win</meta>
 		<dc:creator id="author">Jack Black</dc:creator>
 		<meta property="file-as" refines="#author">Black, Jack</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jack_Black</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jack_Black_(author)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no2019183247</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Vincent van Gogh</dc:contributor>
+		<meta property="file-as" refines="#artist">Gogh, Vincent van</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Vincent_van_Gogh</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79022935</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="author-of-introduction">Robert Herrick</dc:contributor>
+		<meta property="file-as" refines="#author-of-introduction">Herrick, Robert</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author-of-introduction">https://en.wikipedia.org/wiki/Robert_Herrick_(novelist)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author-of-introduction">http://id.loc.gov/authorities/names/n50036896</meta>
+		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">aui</meta>
+		<dc:contributor id="producer-1">Joshua Lund</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Lund, Joshua</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/jlund</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="se:role" refines="#producer-1" scheme="marc:relators">trc</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
