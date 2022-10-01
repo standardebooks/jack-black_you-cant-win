@@ -40,6 +40,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/youcantwin0000jack</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006633773</dc:source>
+		<dc:source>https://www.metmuseum.org/art/collection/search/436533</dc:source>
 		<meta property="se:production-notes">The MacMillan edition from 1926 is the canonical source for both sets of page scans. These scans were compared against each other to help ensure accuracy in cases where a mark was unclear or when one of the pages had small blemishes.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
