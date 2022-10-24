@@ -52,11 +52,13 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Vincent van Gogh</dc:contributor>
 		<meta property="file-as" refines="#artist">Gogh, Vincent van</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Vincent Willem van Gogh</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Vincent_van_Gogh</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79022935</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="author-of-introduction">Robert Herrick</dc:contributor>
 		<meta property="file-as" refines="#author-of-introduction">Herrick, Robert</meta>
+		<meta property="se:name.person.full-name" refines="#author-of-introduction">Robert Welch Herrick</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-of-introduction">https://en.wikipedia.org/wiki/Robert_Herrick_(novelist)</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-of-introduction">http://id.loc.gov/authorities/names/n50036896</meta>
 		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">aui</meta>
