@@ -28,9 +28,33 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">You Can’t Win</dc:title>
 		<meta property="file-as" refines="#title">You Can’t Win</meta>
-		<dc:subject id="subject-1">Thieves</dc:subject>
+		<dc:subject id="subject-1">Autobiography</dc:subject>
+		<dc:subject id="subject-2">Criminals</dc:subject>
+		<dc:subject id="subject-3">Escapes</dc:subject>
+		<dc:subject id="subject-4">Ex-convicts</dc:subject>
+		<dc:subject id="subject-5">Jewel thieves</dc:subject>
+		<dc:subject id="subject-6">Prison reform</dc:subject>
+		<dc:subject id="subject-7">Prison violence</dc:subject>
+		<dc:subject id="subject-8">Rogues and vagabonds</dc:subject>
+		<dc:subject id="subject-9">Thieves</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">sh85134855</meta>
+		<meta property="term" refines="#subject-1">sh85010050</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85036577</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85044783</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85046058</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh85070191</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2020008924</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh85106948</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">sh85114840</meta>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">sh85134855</meta>
 		<meta property="se:subject">Autobiography</meta>
 		<dc:description id="description">Jack Black’s autobiographical account of life “on the road” as a professional thief and hobo during the late 19th century and early 20th century.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
