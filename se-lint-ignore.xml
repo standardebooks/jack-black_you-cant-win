@@ -2,7 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-6.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-028</code>
 			<reason>When the "D.D." initialism becomes a verb (e.g. "D.D.ing"), the "ing" letters immediately follow the abbreviation tags without any spaces.</reason>
 		</ignore>
 	</file>
