@@ -86,7 +86,7 @@
 		<meta property="se:name.person.full-name" refines="#author-of-introduction">Robert Welch Herrick</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author-of-introduction">https://en.wikipedia.org/wiki/Robert_Herrick_(novelist)</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author-of-introduction">http://id.loc.gov/authorities/names/n50036896</meta>
-		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">win</meta>
+		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="producer-1">Joshua Lund</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Lund, Joshua</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://github.com/jlund</meta>
