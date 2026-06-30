@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/jack-black/you-cant-win</dc:identifier>
 		<dc:date>2022-10-31T03:15:38Z</dc:date>
 		<meta property="dcterms:modified">2022-10-31T03:15:38Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org/</meta>
+		<link href="https://standardebooks.org/" refines="#publisher" rel="schema:url"/>
 		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
+		<link href="https://www.theleagueofmoveabletype.com/" refines="#type-designer" rel="schema:url"/>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
@@ -56,7 +57,7 @@
 		<meta property="term" refines="#subject-8">sh85114840</meta>
 		<meta property="authority" refines="#subject-9">LCSH</meta>
 		<meta property="term" refines="#subject-9">sh85134855</meta>
-		<meta property="se:subject">Autobiography</meta>
+		<meta property="schema:genre">Autobiography</meta>
 		<dc:description id="description">Jack Black’s autobiographical account of life “on the road” as a professional thief and hobo during the late 19th century and early 20th century.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Beginning within the hallowed halls of a convent school as a young boy, &lt;a href="https://standardebooks.org/ebooks/jack-black"&gt;Jack Black&lt;/a&gt; recounts his gradual journey towards a life of crime and his adventures within the lawless underworld as a professional thief, hobo, and member of the notorious “yegg” safecracking brotherhood in the American and Canadian West between the 1880s and 1920s.&lt;/p&gt;
@@ -65,31 +66,32 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/youcantwin0000jack</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006633773</dc:source>
-		<meta property="se:production-notes">The MacMillan edition from 1926 is the canonical source for both sets of page scans. These scans were compared against each other to help ensure accuracy in cases where a mark was unclear or when one of the pages had small blemishes.</meta>
-		<meta property="se:word-count">119239</meta>
-		<meta property="se:reading-ease.flesch">80.62</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/You_Can%27t_Win_(book)</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/jack-black_you-cant-win</meta>
+		<meta property="schema:wordCount">119239</meta>
+		<meta property="schema:educationalLevel">80.62</meta>
+		<link href="https://en.wikipedia.org/wiki/You_Can%27t_Win_(book)" rel="schema:sameAs"/>
+		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
+		<link href="https://github.com/standardebooks/jack-black_you-cant-win" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Jack Black</dc:creator>
 		<meta property="file-as" refines="#author">Black, Jack</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jack_Black_(author)</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/no2019183247</meta>
+		<link href="https://en.wikipedia.org/wiki/Jack_Black_(author)" refines="#author" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/no2019183247.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Vincent van Gogh</dc:contributor>
 		<meta property="file-as" refines="#artist">Gogh, Vincent van</meta>
-		<meta property="se:name.person.full-name" refines="#artist">Vincent Willem van Gogh</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Vincent_van_Gogh</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79022935</meta>
+		<meta property="schema:alternateName" refines="#artist">Vincent Willem van Gogh</meta>
+		<link href="https://en.wikipedia.org/wiki/Vincent_van_Gogh" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n79022935.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="author-of-introduction">Robert Herrick</dc:contributor>
 		<meta property="file-as" refines="#author-of-introduction">Herrick, Robert</meta>
-		<meta property="se:name.person.full-name" refines="#author-of-introduction">Robert Welch Herrick</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author-of-introduction">https://en.wikipedia.org/wiki/Robert_Herrick_(novelist)</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author-of-introduction">http://id.loc.gov/authorities/names/n50036896</meta>
+		<meta property="schema:alternateName" refines="#author-of-introduction">Robert Welch Herrick</meta>
+		<link href="https://en.wikipedia.org/wiki/Robert_Herrick_(novelist)" refines="#author-of-introduction" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n50036896.html" refines="#author-of-introduction" rel="schema:sameAs"/>
 		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="producer-1">Joshua Lund</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Lund, Joshua</meta>
-		<meta property="se:url.homepage" refines="#producer-1">https://github.com/jlund</meta>
+		<link href="https://github.com/jlund" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -99,7 +101,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
-		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com/</meta>
+		<link href="https://www.brokenandsaved.com/" refines="#producer-2" rel="schema:url"/>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>

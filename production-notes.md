@@ -1,0 +1,1 @@
+The MacMillan edition from 1926 is the canonical source for both sets of page scans. These scans were compared against each other to help ensure accuracy in cases where a mark was unclear or when one of the pages had small blemishes.
