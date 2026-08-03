@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/jack-black/you-cant-win</dc:identifier>
 		<dc:date>2022-10-31T03:15:38Z</dc:date>
@@ -58,11 +58,11 @@
 		<meta property="authority" refines="#subject-9">LCSH</meta>
 		<meta property="term" refines="#subject-9">sh85134855</meta>
 		<meta property="schema:genre">Autobiography</meta>
-		<dc:description id="description">Jack Black’s autobiographical account of life “on the road” as a professional thief and hobo during the late 19th century and early 20th century.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Jack Black’s autobiographical account of life “on the road” as a professional thief and hobo during the late 19th century and early 20th century.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Beginning within the hallowed halls of a convent school as a young boy, &lt;a href="https://standardebooks.org/ebooks/jack-black"&gt;Jack Black&lt;/a&gt; recounts his gradual journey towards a life of crime and his adventures within the lawless underworld as a professional thief, hobo, and member of the notorious “yegg” safecracking brotherhood in the American and Canadian West between the 1880s and 1920s.&lt;/p&gt;
 			&lt;p&gt;After its initial appearance as a popular series of articles in the &lt;i&gt;San Francisco Call&lt;/i&gt; newspaper, &lt;i&gt;You Can’t Win&lt;/i&gt; was reissued as a standalone book in 1926 and quickly became a critically acclaimed bestseller that had to be reprinted five times in order to satisfy the initial demand. Black’s gritty portrayal of life “on the road” and inside account of the criminal justice system helped inspire Beat Generation writers like William S. Burroughs, and played an influential role in prison reform efforts long after its publication.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/youcantwin0000jack</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006633773</dc:source>
